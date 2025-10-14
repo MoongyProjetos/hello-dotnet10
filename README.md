@@ -48,7 +48,23 @@ Este repositório faz parte do conteúdo da formação **C# 14 & .NET 10 – Nov
  ├── Aula 02 - Interceptors e Pattern Matching/
  ├── Aula 03 - API Minimalista com .NET 10/
  └── Aula 04 - Integração com AI SDK (ML.NET)/
+
+
+ 
 ```
+
+### ✅ Aula 01 — Panorama do C# 14 e .NET 10
+
+## 🎯 Objetivo
+Apresentar a evolução das tecnologias C# e .NET, destacando o posicionamento do .NET 10 no ecossistema Microsoft e os principais recursos introduzidos no C# 14.
+
+## 📘 Conteúdo
+- Linha do tempo do .NET (Framework → Core → 5 → 10)
+- O papel do .NET 10 no ecossistema moderno (AOT, containers, cloud-native)
+- Evolução do C#: de sintaxe a paradigmas
+- Principais tendências do roadmap Microsoft (.NET, AI e interoperabilidade)
+- Demo: comparação de código (C# 12 vs C# 14)
+
 
 ### ✅ Aula 02 – Interceptors e Pattern Matching
 
