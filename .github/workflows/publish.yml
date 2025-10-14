@@ -1,0 +1,29 @@
+name: 🚀 Publicar Binários
+
+on:
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Configurar .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: 📦 Publicar exemplos
+        run: |
+          for project in $(find src -name "*.csproj"); do
+            dotnet publish "$project" -c Release -o ./artifacts/$(basename "$project" .csproj)
+          done
+
+      - name: 📤 Upload de artefatos
+        uses: actions/upload-artifact@v4
+        with:
+          name: exemplos-publicados
+          path: artifacts/

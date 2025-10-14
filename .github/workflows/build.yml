@@ -1,0 +1,37 @@
+name: 🏗️ Build & Validate
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        project:
+          - "src/Aula 01 - HelloWorld/HelloWorldDotNet10.csproj"
+          - "src/Aula 02 - Interceptors e Pattern Matching/InterceptorsAndPatternMatching.csproj"
+          - "src/Aula 03 - API Minimalista com .NET 10/ApiMinimalistaDotNet10.csproj"
+          - "src/Aula 04 - Integração com AI SDK (ML.NET)/MLNetDemo.csproj"
+
+    steps:
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Configurar .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: 📦 Restaurar dependências
+        run: dotnet restore ${{ matrix.project }}
+
+      - name: 🧱 Compilar projeto
+        run: dotnet build ${{ matrix.project }} --configuration Release --no-restore
+
+      - name: ▶️ Executar projeto
+        run: dotnet run --project ${{ matrix.project }} --no-build

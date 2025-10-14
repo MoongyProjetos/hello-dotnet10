@@ -1,0 +1,32 @@
+name: 🔍 Análise de Qualidade com SonarQube
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  sonar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Configurar .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: 🔧 Compilar soluções
+        run: dotnet build --configuration Release
+
+      - name: 🔎 Executar análise Sonar
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+        run: |
+          dotnet tool install --global dotnet-sonarscanner
+          dotnet sonarscanner begin /k:"${{ secrets.SONAR_PROJECT_KEY }}" /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
+          dotnet build
+          dotnet sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
