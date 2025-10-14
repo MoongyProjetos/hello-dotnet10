@@ -3,8 +3,12 @@
 [![.NET 10](https://img.shields.io/badge/.NET-10.0-blueviolet?logo=dotnet)](https://dotnet.microsoft.com/)
 [![C# 14](https://img.shields.io/badge/C%23-14.0-239120?logo=csharp)](https://learn.microsoft.com/dotnet/csharp/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Build](https://github.com/<seu-usuario>/csharp14-dotnet10-features/actions/workflows/build.yml/badge.svg)](https://github.com/<seu-usuario>/csharp14-dotnet10-features/actions)
+[![Build](https://github.com/MoongyProjetos/hello-dotnet10
+/actions/workflows/build.yml/badge.svg)](https://github.com/MoongyProjetos/hello-dotnet10
+/actions)
 [![Made with ❤️ by Jonatas](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20by%20Jonatas-orange)](#)
+
+
 
 > Repositório com exemplos práticos, demos e exercícios do curso **C# 14 & .NET 10 – Novas Funcionalidades**, explorando novas features da linguagem, melhorias de performance, interoperabilidade e boas práticas de adoção em projetos reais.
 
