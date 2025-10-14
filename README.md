@@ -1,16 +1,15 @@
-# 🚀 C# 14 & .NET 10 – Novas Funcionalidades
+# Formação: C# 14 & .NET 10 – Novas Funcionalidades
 
-[![.NET 10](https://img.shields.io/badge/.NET-10.0-blueviolet?logo=dotnet)](https://dotnet.microsoft.com/)
-[![C# 14](https://img.shields.io/badge/C%23-14.0-239120?logo=csharp)](https://learn.microsoft.com/dotnet/csharp/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Build](https://github.com/MoongyProjetos/hello-dotnet10
-/actions/workflows/build.yml/badge.svg)](https://github.com/MoongyProjetos/hello-dotnet10
-/actions)
-[![Made with ❤️ by Jonatas](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20by%20Jonatas-orange)](#)
+![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=flat&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-14.0-239120?style=flat&logo=csharp)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+---
 
+## 📖 Sobre o Projeto
 
-> Repositório com exemplos práticos, demos e exercícios do curso **C# 14 & .NET 10 – Novas Funcionalidades**, explorando novas features da linguagem, melhorias de performance, interoperabilidade e boas práticas de adoção em projetos reais.
+Este repositório reúne os **materiais, exemplos e exercícios práticos** da formação **C# 14 & .NET 10 – Novas Funcionalidades**, explorando os principais avanços da linguagem e do runtime, com foco em produtividade, performance e interoperabilidade.
 
 ---
 
@@ -78,40 +77,27 @@ dotnet run --project src/Exemplo01
 
 ---
 
-## 🧠 Objetivos de Aprendizado
+## 🎯 Objetivos de Aprendizado
 
-* Compreender as principais mudanças no C# 14 e .NET 10
-* Aplicar novas features em projetos reais
-* Entender o impacto de performance e interoperabilidade
-* Adotar boas práticas de migração no ecossistema .NET
-
----
-
-## 🏗️ Projeto Final
-
-O projeto final consiste em um **microserviço minimalista** utilizando:
-
-* APIs minimalistas com **ASP.NET Core 10**
-* Interceptors e pattern matching avançado
-* Integração com **GitHub Actions** (build + testes)
-* Benchmarks comparativos de performance
+- Compreender as principais mudanças do C# 14 e .NET 10  
+- Aplicar novas features em exemplos práticos e projetos reais  
+- Explorar ganhos de performance, produtividade e interoperabilidade  
+- Integrar .NET 10 a pipelines modernos e práticas DevOps  
+- Adotar boas práticas de migração em código legado  
 
 ---
 
-## 🧑‍🏫 Público-Alvo
+## 💡 Público-Alvo
 
-Desenvolvedores .NET **intermediários ou avançados** que desejam atualizar-se para o **C# 14** e **.NET 10**, e equipes interessadas em modernizar código e adotar novas práticas do ecossistema Microsoft.
-
----
-
-## 💡 Dica
-
-> Quer comparar com versões anteriores?
-> Veja os exemplos em **branches** separados (`net8`, `net9`, `net10`) e analise as diferenças de sintaxe e performance.
+Desenvolvedores .NET **intermediários ou avançados** que desejam atualizar-se para o **C# 14** e **.NET 10**, modernizando aplicações e aproveitando os novos recursos do ecossistema Microsoft.
 
 ---
 
 ## 🧾 Licença
 
-Este projeto é distribuído sob a licença **MIT**.
+Este projeto é distribuído sob a licença **MIT**.  
 Sinta-se à vontade para usar, adaptar e contribuir!
+
+---
+
+> *“Com o C# 14 e o .NET 10, a Microsoft redefine novamente o padrão de elegância, performance e produtividade no desenvolvimento moderno.”*
