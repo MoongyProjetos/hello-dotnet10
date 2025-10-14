@@ -12,7 +12,3 @@ Apresentar a evolução das tecnologias C# e .NET, destacando o posicionamento d
 
 ## 💡 Atividade Prática
 - Explorar as diferenças sintáticas e de performance entre versões anteriores e o .NET 10.
-
-
----
-Moongy 2025 - Todos os direitos reservados

@@ -12,7 +12,3 @@ Demonstrar como o .NET 10 amplia as possibilidades de integração com Inteligê
 ## 💡 Atividade Prática
 - Criar um exemplo de integração simples com o ML.NET ou Semantic Kernel
 - Expor uma API que consome uma inferência AI
-
-
----
-Moongy 2025 - Todos os direitos reservados

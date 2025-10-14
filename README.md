@@ -30,12 +30,53 @@ Este repositório faz parte do conteúdo da formação **C# 14 & .NET 10 – Nov
 
 📦 csharp14-dotnet10-features
 ┣ 📂 src/                 # Código-fonte dos exemplos
-┣ 📂 demos/               # Demos apresentadas em aula
+┣ 📂 docs/                # Material teórico da formação
 ┣ 📂 exercises/           # Exercícios práticos (katas)
 ┣ 📂 project-final/       # Projeto final integrando os conceitos
 ┗ 📜 README.md            # Este arquivo
 
 ````
+
+
+
+
+## 🔧 Estrutura que será adicionada a `/src/`
+
+```plaintext
+/src/
+ ├── Aula 01 - HelloWorld/
+ ├── Aula 02 - Interceptors e Pattern Matching/
+ ├── Aula 03 - API Minimalista com .NET 10/
+ └── Aula 04 - Integração com AI SDK (ML.NET)/
+```
+
+### ✅ Aula 02 – Interceptors e Pattern Matching
+
+Exemplo demonstrando:
+
+* Criação de *interceptors* (feature nova do C# 14);
+* Uso avançado de *pattern matching* para simplificar lógica condicional.
+
+---
+
+### ✅ Aula 03 – API Minimalista com .NET 10
+
+Exemplo mostrando:
+
+* Uso de APIs minimalistas (endpoint único);
+* Configuração básica de *Swagger* e *AOT ready*;
+* Benchmark básico de performance.
+
+---
+
+### ✅ Aula 04 – Integração com AI SDK (ML.NET)
+
+Exemplo básico com:
+
+* Regressão linear simples usando **ML.NET**;
+* Treinamento e predição no mesmo programa;
+* Demonstração da interoperabilidade e facilidade de uso com .NET 10.
+
 
 ---
 
@@ -92,12 +133,4 @@ dotnet run --project src/Exemplo01
 Desenvolvedores .NET **intermediários ou avançados** que desejam atualizar-se para o **C# 14** e **.NET 10**, modernizando aplicações e aproveitando os novos recursos do ecossistema Microsoft.
 
 ---
-
-## 🧾 Licença
-
-Este projeto é distribuído sob a licença **MIT**.  
-Sinta-se à vontade para usar, adaptar e contribuir!
-
----
-
-> *“Com o C# 14 e o .NET 10, a Microsoft redefine novamente o padrão de elegância, performance e produtividade no desenvolvimento moderno.”*
+Moongy 2025 - Todos os direitos reservados

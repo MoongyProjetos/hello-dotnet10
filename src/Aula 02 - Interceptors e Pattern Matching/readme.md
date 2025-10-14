@@ -13,7 +13,3 @@ Explorar as principais inovações sintáticas e de linguagem no C# 14, com foco
 ## 💡 Atividade Prática
 - Katas de refatoração com C# 14
 - Exercício: aplicação de interceptors e pattern matching em um cenário real
-
-
----
-Moongy 2025 - Todos os direitos reservados

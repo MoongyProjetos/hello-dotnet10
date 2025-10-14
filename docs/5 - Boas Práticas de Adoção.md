@@ -13,3 +13,7 @@ Apresentar estratégias para adoção gradual do C# 14 e .NET 10 em projetos exi
 ## 💡 Atividade Prática
 - Aplicar uma estratégia de modernização incremental num repositório legado
 - Criar um pipeline CI/CD com build + testes automatizados
+
+
+---
+Moongy 2025 - Todos os direitos reservados

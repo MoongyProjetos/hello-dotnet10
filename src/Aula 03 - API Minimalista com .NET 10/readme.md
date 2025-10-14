@@ -14,7 +14,3 @@ Apresentar as melhorias de performance, produtividade e interoperabilidade trazi
 ## 💡 Atividade Prática
 - Criar uma API minimalista no .NET 10
 - Executar benchmarks de performance e comparar com versões anteriores
-
-
----
-Moongy 2025 - Todos os direitos reservados

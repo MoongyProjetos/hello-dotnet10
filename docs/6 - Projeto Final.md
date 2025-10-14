@@ -14,3 +14,7 @@ Consolidar os conhecimentos aplicando as novas features do C# 14 e do .NET 10 no
 - Microserviço funcional implementado com .NET 10
 - Testes de performance e validação de features
 - Documentação técnica e relatório de resultados
+
+
+---
+Moongy 2025 - Todos os direitos reservados
