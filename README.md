@@ -53,7 +53,7 @@ Este repositório faz parte do conteúdo da formação **C# 14 & .NET 10 – Nov
 
 ## ⚙️ Requisitos
 
-- [Visual Studio 2025](https://visualstudio.microsoft.com/) ou [VS Code](https://code.visualstudio.com/)
+- [Visual Studio 2026 Insiders](https://visualstudio.microsoft.com/insiders/) ou [VS Code](https://code.visualstudio.com/)
 - **.NET SDK 10.0**
 - **C# 14** habilitado
 - (Opcional) Conta no [GitHub](https://github.com) para testar **GitHub Actions**
