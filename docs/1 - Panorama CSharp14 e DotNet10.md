@@ -24,7 +24,10 @@ Apresentar a evolução das tecnologias C# e .NET, destacando o posicionamento d
 ![alt text](img/asp.net-development-modes.-0A-966x783.jpg)
 
 >Fonte:
-https://jelvix.com/blog/asp-net-vs-asp-net-core
+
+1.https://jelvix.com/blog/asp-net-vs-asp-net-core
+
+2.https://stackify.com/dotnet-framework-vs-dotnet-core/
 
 ### **.NET Core (2016–2020)**
 
@@ -36,7 +39,8 @@ https://jelvix.com/blog/asp-net-vs-asp-net-core
 ![alt text](img/microsoft-built-framework-966x535.jpg)
 
 > Fonte:  
-https://jelvix.com/blog/asp-net-vs-asp-net-core
+
+1.https://jelvix.com/blog/asp-net-vs-asp-net-core
 
 ### **.NET 5 (2020)**
 
@@ -48,7 +52,10 @@ https://jelvix.com/blog/asp-net-vs-asp-net-core
 ![alt text](img/net5ss.webp)
 
 >Fonte:
-https://marcionizzola.medium.com/estou-come%C3%A7ando-como-diferenciar-c-net-net-core-net-framework-net-mvc-968fb993abc0
+
+1.https://marcionizzola.medium.com/estou-come%C3%A7ando-como-diferenciar-c-net-net-core-net-framework-net-mvc-968fb993abc0
+
+2.https://learn.microsoft.com/pt-br/archive/msdn-magazine/2017/september/net-standard-demystifying-net-core-and-net-standard
 
 ### **.NET 6, 7, 8 e 9**
 
@@ -60,8 +67,10 @@ https://marcionizzola.medium.com/estou-come%C3%A7ando-como-diferenciar-c-net-net
 ![alt text](img/performance_comparison.jpg)
 
 >Fonte:
-https://www.sharepointcafe.net/2024/04/comparing-net-6-net-7-and-net-8-performance.html
-https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-6
+
+1.https://www.sharepointcafe.net/2024/04/comparing-net-6-net-7-and-net-8-performance.html
+
+2.https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-6
 
 ### **.NET 10 (2025)**
 
@@ -73,8 +82,10 @@ https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-6
 ![alt text](img/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_tnjzef6b3bi65191dwp6.webp)
 
 > Fonte:
-https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-10/overview
-https://dev.to/cristiansifuentes/new-features-in-net-10-c-14-the-experts-playbook-2025-2pe5
+ 
+1.https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-10/overview
+
+2.https://dev.to/cristiansifuentes/new-features-in-net-10-c-14-the-experts-playbook-2025-2pe5
 
 
 ### **.NET 11+ (Futuro)**
@@ -82,7 +93,8 @@ https://dev.to/cristiansifuentes/new-features-in-net-10-c-14-the-experts-playboo
 ![Future .NET Timeline](img/futuretimeline.png)
 
 > Fonte:
-https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core  
+
+1.https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core  
 
 ---
 
@@ -215,6 +227,13 @@ Explorar diferenças sintáticas e de performance entre versões anteriores e o 
 * O C# 14 entrega ainda mais expressividade e produtividade.
 * A evolução da plataforma continua alinhada à estratégia "+cloud, +AI" da Microsoft.
 
+
+# 8. Referências
+
+1. https://devblogs.microsoft.com/dotnet/announcing-net-10/
+2. https://www.metizsoft.com/blog/whats-new-in-dot-net-10
+3. https://dev.to/cristiansifuentes/new-features-in-net-10-c-14-the-experts-playbook-2025-2pe5
+4. https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-10/overview
 
 
 ---
