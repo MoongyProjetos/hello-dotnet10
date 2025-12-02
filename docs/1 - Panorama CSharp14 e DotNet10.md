@@ -25,9 +25,8 @@ Apresentar a evolução das tecnologias C# e .NET, destacando o posicionamento d
 
 >Fonte:
 
-1.https://jelvix.com/blog/asp-net-vs-asp-net-core
-
-2.https://stackify.com/dotnet-framework-vs-dotnet-core/
+1. https://jelvix.com/blog/asp-net-vs-asp-net-core
+2. https://stackify.com/dotnet-framework-vs-dotnet-core/
 
 ### **.NET Core (2016–2020)**
 
@@ -40,7 +39,7 @@ Apresentar a evolução das tecnologias C# e .NET, destacando o posicionamento d
 
 > Fonte:  
 
-1.https://jelvix.com/blog/asp-net-vs-asp-net-core
+1. https://jelvix.com/blog/asp-net-vs-asp-net-core
 
 ### **.NET 5 (2020)**
 
@@ -53,9 +52,8 @@ Apresentar a evolução das tecnologias C# e .NET, destacando o posicionamento d
 
 >Fonte:
 
-1.https://marcionizzola.medium.com/estou-come%C3%A7ando-como-diferenciar-c-net-net-core-net-framework-net-mvc-968fb993abc0
-
-2.https://learn.microsoft.com/pt-br/archive/msdn-magazine/2017/september/net-standard-demystifying-net-core-and-net-standard
+1. https://marcionizzola.medium.com/estou-come%C3%A7ando-como-diferenciar-c-net-net-core-net-framework-net-mvc-968fb993abc0
+2. https://learn.microsoft.com/pt-br/archive/msdn-magazine/2017/september/net-standard-demystifying-net-core-and-net-standard
 
 ### **.NET 6, 7, 8 e 9**
 
@@ -68,9 +66,9 @@ Apresentar a evolução das tecnologias C# e .NET, destacando o posicionamento d
 
 >Fonte:
 
-1.https://www.sharepointcafe.net/2024/04/comparing-net-6-net-7-and-net-8-performance.html
+1. https://www.sharepointcafe.net/2024/04/comparing-net-6-net-7-and-net-8-performance.html
 
-2.https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-6
+2. https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-6
 
 ### **.NET 10 (2025)**
 
@@ -83,9 +81,8 @@ Apresentar a evolução das tecnologias C# e .NET, destacando o posicionamento d
 
 > Fonte:
  
-1.https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-10/overview
-
-2.https://dev.to/cristiansifuentes/new-features-in-net-10-c-14-the-experts-playbook-2025-2pe5
+1. https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-10/overview
+2. https://dev.to/cristiansifuentes/new-features-in-net-10-c-14-the-experts-playbook-2025-2pe5
 
 
 ### **.NET 11+ (Futuro)**
@@ -94,7 +91,7 @@ Apresentar a evolução das tecnologias C# e .NET, destacando o posicionamento d
 
 > Fonte:
 
-1.https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core  
+1. https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core  
 
 ---
 
