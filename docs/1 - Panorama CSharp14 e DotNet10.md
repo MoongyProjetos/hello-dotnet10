@@ -10,10 +10,6 @@ Apresentar a evolução das tecnologias C# e .NET, destacando o posicionamento d
 
 ![.NET Timeline](img/timeline.png)
 
-![Future .NET Timeline](img/futuretimeline.png)
-
-> Fonte:
-https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core  
 
 ## 1.1 .NET Framework → .NET Core → .NET 5 → .NET 10
 
@@ -23,7 +19,12 @@ https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core
 * Monolítico, não open-source.
 * Base de muitas aplicações legadas.
 
-![alt text](image.png)
+![alt text](img/dotnet1.png)
+
+![alt text](img/asp.net-development-modes.-0A-966x783.jpg)
+
+>Fonte:
+https://jelvix.com/blog/asp-net-vs-asp-net-core
 
 ### **.NET Core (2016–2020)**
 
@@ -32,10 +33,22 @@ https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core
 * Performance muito superior ao Framework.
 * Modular e otimizado para cloud.
 
+![alt text](img/microsoft-built-framework-966x535.jpg)
+
+> Fonte:  
+https://jelvix.com/blog/asp-net-vs-asp-net-core
+
 ### **.NET 5 (2020)**
 
 * Início da unificação: uma única plataforma .NET para todos os cenários.
 * Novo ciclo de releases anuais.
+* Melhorias contínuas em performance e APIs.
+* Suporte a containers e cloud-native.
+  
+![alt text](img/net5ss.webp)
+
+>Fonte:
+https://marcionizzola.medium.com/estou-come%C3%A7ando-como-diferenciar-c-net-net-core-net-framework-net-mvc-968fb993abc0
 
 ### **.NET 6, 7, 8 e 9**
 
@@ -44,12 +57,32 @@ https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core
 * 8: AOT nativo, simplificação de aplicações minimalistas.
 * 9: otimizações incrementais (AI e interop com WASM).
 
+![alt text](img/performance_comparison.jpg)
+
+>Fonte:
+https://www.sharepointcafe.net/2024/04/comparing-net-6-net-7-and-net-8-performance.html
+https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-6
+
 ### **.NET 10 (2025)**
 
 * Consolidação da plataforma cloud-native.
 * Avanços robustos em AOT.
 * Interoperabilidade com IA nativa no runtime.
 * Mais otimizações para containers.
+  
+![alt text](img/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_tnjzef6b3bi65191dwp6.webp)
+
+> Fonte:
+https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-10/overview
+https://dev.to/cristiansifuentes/new-features-in-net-10-c-14-the-experts-playbook-2025-2pe5
+
+
+### **.NET 11+ (Futuro)**
+
+![Future .NET Timeline](img/futuretimeline.png)
+
+> Fonte:
+https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core  
 
 ---
 
@@ -60,6 +93,10 @@ https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core
 * Compilação Ahead-of-Time mais completa.
 * Tempos de startup muito menores.
 * Ideal para microsserviços e aplicações serverless.
+
+>Ahead-of-Time Compilation — ou compilação antecipada — é o processo de compilar o código-fonte para código de máquina nativo antes da execução do programa.
+Ou seja: o código já chega pronto para rodar, sem precisar converter nada enquanto o programa está funcionando.
+> Em contraste, a compilação Just-In-Time (JIT) ocorre durante a execução do programa, convertendo o código intermediário em código de máquina conforme necessário.
 
 ## 2.2 Containers Primeiro
 
