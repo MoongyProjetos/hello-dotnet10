@@ -13,6 +13,45 @@ Este repositório reúne os **materiais, exemplos e exercícios práticos** da f
 
 ---
 
+## 👨‍🏫 Sobre o Formador
+
+![alt text](image-1.png)
+
+**Jônatas Afonso** é **Microsoft Certified Trainer (MCT)** com mais de **20 anos de experiência em tecnologia**, tendo atuado em projetos de desenvolvimento de software em **4 países** e mais de **10 empresas diferentes**.
+Ao longo da carreira, trabalhou com arquitetura de soluções, DevOps, automação em larga escala e plataformas cloud — com destaque para **Azure**, **Azure DevOps**, **SonarQube**, **Azure Data Explorer** e o ecossistema .NET.
+
+Apaixonado por ensino e pela evolução da plataforma Microsoft, ministra formações técnicas com foco em **clareza, aplicabilidade e prática real**, além de forte alinhamento com tendências modernas como **Cloud-Native**, **AOT**, **DevOps** e **IA aplicada**.
+
+Outras curiosidades que ajudam a entender o estilo do formador:
+
+* Vive em **Portugal (Lisboa)**
+* É brasileiro e prefere clima mais frio
+* É **pai** de uma filha de 6 anos
+* Pedala regularmente 
+* Gosta de **metodologias ágeis** e **boas práticas de desenvolvimento**
+* Valoriza **performance** e **produtividade** em código
+* Prefere explicações **menos formais**, diretas e com sotaque **carioca**
+* Ateu, apreciador de boa argumentação e pensamento técnico
+
+O objetivo principal nas formações é **capacitar profissionais para um uso moderno, eficiente e pragmático** das tecnologias da Microsoft — sempre com foco em performance, produtividade e boas práticas.
+
+---
+
+Se quiser, eu também posso:
+
+✅ gerar uma versão *mais curta*
+✅ gerar uma versão *mais corporativa*
+✅ gerar uma versão estilo *card de apresentação*
+✅ incluir foto (é só me enviar)
+✅ inserir automaticamente essa sessão no documento do canvas
+
+Quer que eu já coloque isso em algum lugar específico?
+
+
+
+
+---
+
 ## 🧭 Sobre o Curso
 
 Este repositório faz parte do conteúdo da formação **C# 14 & .NET 10 – Novas Funcionalidades**, com foco em:
@@ -31,8 +70,6 @@ Este repositório faz parte do conteúdo da formação **C# 14 & .NET 10 – Nov
 📦 csharp14-dotnet10-features
 ┣ 📂 src/                 # Código-fonte dos exemplos
 ┣ 📂 docs/                # Material teórico da formação
-┣ 📂 exercises/           # Exercícios práticos (katas)
-┣ 📂 project-final/       # Projeto final integrando os conceitos
 ┗ 📜 README.md            # Este arquivo
 
 ````
