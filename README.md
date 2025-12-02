@@ -15,7 +15,7 @@ Este repositório reúne os **materiais, exemplos e exercícios práticos** da f
 
 ## 👨‍🏫 Sobre o Formador
 
-![alt text](image-1.png)
+![alt text](docs/img/jonatasia.png)
 
 **Jônatas Afonso** é **Microsoft Certified Trainer (MCT)** com mais de **20 anos de experiência em tecnologia**, tendo atuado em projetos de desenvolvimento de software em **4 países** e mais de **10 empresas diferentes**.
 Ao longo da carreira, trabalhou com arquitetura de soluções, DevOps, automação em larga escala e plataformas cloud — com destaque para **Azure**, **Azure DevOps**, **SonarQube**, **Azure Data Explorer** e o ecossistema .NET.
@@ -34,21 +34,6 @@ Outras curiosidades que ajudam a entender o estilo do formador:
 * Ateu, apreciador de boa argumentação e pensamento técnico
 
 O objetivo principal nas formações é **capacitar profissionais para um uso moderno, eficiente e pragmático** das tecnologias da Microsoft — sempre com foco em performance, produtividade e boas práticas.
-
----
-
-Se quiser, eu também posso:
-
-✅ gerar uma versão *mais curta*
-✅ gerar uma versão *mais corporativa*
-✅ gerar uma versão estilo *card de apresentação*
-✅ incluir foto (é só me enviar)
-✅ inserir automaticamente essa sessão no documento do canvas
-
-Quer que eu já coloque isso em algum lugar específico?
-
-
-
 
 ---
 
