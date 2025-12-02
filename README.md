@@ -142,10 +142,10 @@ Exemplo básico com:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/<seu-usuario>/csharp14-dotnet10-features.git
+git clone https://github.com/MoongyProjetos/hello-dotnet10.git
 
 # Entrar na pasta
-cd csharp14-dotnet10-features
+cd src
 
 # Restaurar dependências
 dotnet restore
