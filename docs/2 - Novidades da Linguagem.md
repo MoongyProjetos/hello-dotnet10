@@ -280,6 +280,8 @@ public static class EnumerableExtensions
 }
 ```
 
+**3) Campos privados e cache em extension blocks** - Rever esse ponto depois
+<!-- 
 ## **3) Campos privados e cache em extension blocks**
 
 Um *extension block* agora pode ter **estado interno**, com **campos privados**.
@@ -312,7 +314,7 @@ public static class CacheExtensions
         public bool IsEmpty => Materialized.Count == 0;
     }
 }
-```
+``` -->
 
 ## **4) Extension members estáticos**
 
@@ -521,7 +523,9 @@ public struct Money(string currency, decimal amount)
 }
 ```
 
-## **10) `nameof` para genéricos abertos + inferência para Span**
+## **10) `nameof` para genéricos abertos + inferência para Span**  
+
+>Nota: falar na próxima aula
 
 
 ### ✔ `nameof` agora funciona para *tipos genéricos abertos*, como:
