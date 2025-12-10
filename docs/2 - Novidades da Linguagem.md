@@ -394,9 +394,4 @@ await context.Blogs.ExecuteUpdateAsync(s =>
 Se você constrói APIs, CLIs ou apps data-heavy, essa versão **acelera seu fluxo e reduz cerimônia**.
 
 ---
-
-Se quiser, posso gerar uma **versão PDF**, **resumo de 1 página**, ou até um **slide deck**. Só mandar, Gepeto!
-
-
----
 Moongy 2025 - Todos os direitos reservados
