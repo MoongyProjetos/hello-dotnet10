@@ -563,6 +563,8 @@ Console.WriteLine(nameof(List<>)); // "List"
 
 ---
 
+>Nota: Parei por aqui. Continuar depois.
+
 # **Novidades no ASP.NET Core no .NET 10**
 
 ## **1) Validação nativa em Minimal APIs**
