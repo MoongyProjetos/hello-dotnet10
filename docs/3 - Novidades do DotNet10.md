@@ -71,6 +71,9 @@ Apresentar, **na prática**, as principais novidades do **.NET 10 (LTS)** com fo
 * consumo de memória
 * DX melhorado
 
+>Exemplo de Geração de documentação com AI
+https://www.linkedin.com/pulse/como-ia-me-ajudou-documentar-mais-de-100-projetos-em-uma-amorim-7uuef/?trackingId=Cyf%2BhlV%2BQXOyyyWEYd89aw%3D%3D
+
 ---
 
 ### 3️⃣ Criando uma WebApp com Aspire (35 min)

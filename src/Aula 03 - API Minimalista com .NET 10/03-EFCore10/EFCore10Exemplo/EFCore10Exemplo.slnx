@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="EFCore10Exemplo.ApiService/EFCore10Exemplo.ApiService.csproj" />
+  <Project Path="EFCore10Exemplo.AppHost/EFCore10Exemplo.AppHost.csproj" />
+  <Project Path="EFCore10Exemplo.ServiceDefaults/EFCore10Exemplo.ServiceDefaults.csproj" />
+  <Project Path="EFCore10Exemplo.Tests/EFCore10Exemplo.Tests.csproj" />
+  <Project Path="EFCore10Exemplo.Web/EFCore10Exemplo.Web.csproj" />
+</Solution>

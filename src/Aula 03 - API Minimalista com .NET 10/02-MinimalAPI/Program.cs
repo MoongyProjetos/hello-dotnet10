@@ -33,6 +33,23 @@ app.MapGet("/weatherforecast", () =>
 })
 .WithName("GetWeatherForecast");
 
+app.MapGet("/", () => "Hello World!");
+
+app.MapPost("/echo", (HttpRequest request) =>
+{
+    using var reader = new StreamReader(request.Body);
+    var body = reader.ReadToEnd();
+    return Results.Text(body, "text/plain");
+}).WithName("Echo");
+
+app.MapPut("/update/{id}", (int id, HttpRequest request) =>
+{
+    using var reader = new StreamReader(request.Body);
+    var body = reader.ReadToEnd();
+    return Results.Text($"Updated resource {id} with data: {body}", "text/plain");
+}).WithName("UpdateResource");
+
+
 app.Run();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
