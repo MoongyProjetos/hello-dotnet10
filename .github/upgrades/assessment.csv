@@ -1,0 +1,4 @@
+Issue ID,Description,State,Severity,Story Points,Project Path,Location Kind,Path,Line,Column,Incident ID,Help Link,Assembly Name,Assembly Version,Assembly Public Key,Snippet
+Project.0002,Project's target framework(s) needs to be changed,Active,Mandatory,1,Projeto.ConsoleApp\Projeto.ConsoleApp.csproj,File,Projeto.ConsoleApp\Projeto.ConsoleApp.csproj,,,,,,,,Current target framework: net5.0 Recommended target framework: net10.0
+Project.0002,Project's target framework(s) needs to be changed,Active,Mandatory,1,Projeto.LogicaNegocio\Projeto.LogicaNegocio.csproj,File,Projeto.LogicaNegocio\Projeto.LogicaNegocio.csproj,,,,,,,,Current target framework: net5.0 Recommended target framework: net10.0
+Project.0002,Project's target framework(s) needs to be changed,Active,Mandatory,1,Projeto.Tests\Projeto.Tests.csproj,File,Projeto.Tests\Projeto.Tests.csproj,,,,,,,,Current target framework: net5.0 Recommended target framework: net10.0

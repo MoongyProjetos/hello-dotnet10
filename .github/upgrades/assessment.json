@@ -1,0 +1,206 @@
+{
+  "settings": {
+    "components": {
+      "code": false,
+      "binaries": false
+    },
+    "targetId": "net10.0",
+    "targetDisplayName": ".NETCoreApp,Version=v10.0"
+  },
+  "analysisStartTime": "2025-12-17T19:13:05.132479Z",
+  "analysisEndTime": "2025-12-17T19:13:06.9984495Z",
+  "privacyModeHelpUrl": "https://go.microsoft.com/fwlink/?linkid=2270980",
+  "stats": {
+    "summary": {
+      "projects": 3,
+      "issues": 1,
+      "incidents": 3,
+      "effort": 3
+    },
+    "charts": {
+      "severity": {
+        "Mandatory": 3,
+        "Optional": 0,
+        "Potential": 0,
+        "Information": 0
+      },
+      "category": {
+        "Project": 3
+      }
+    }
+  },
+  "projects": [
+    {
+      "path": "Projeto.ConsoleApp\\Projeto.ConsoleApp.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "properties": {
+        "appName": "Projeto.ConsoleApp",
+        "projectKind": "DotNetCoreApp",
+        "frameworks": [
+          "net5.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "numberOfFiles": 1,
+        "numberOfCodeFiles": 1,
+        "linesTotal": 12,
+        "linesOfCode": 12,
+        "totalApiScanned": 4,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "32bef60b-5343-4161-8bac-8f9cd31c20fa",
+          "ruleId": "Project.0002",
+          "projectPath": "Projeto.ConsoleApp\\Projeto.ConsoleApp.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current target framework: net5.0\nRecommended target framework: net10.0",
+              "protected": "Current target framework: net5.0\nRecommended target framework: net10.0"
+            },
+            "kind": "File",
+            "path": "Projeto.ConsoleApp\\Projeto.ConsoleApp.csproj",
+            "snippet": "Current target framework: net5.0\nRecommended target framework: net10.0",
+            "protectedSnippet": "Current target framework: net5.0\nRecommended target framework: net10.0",
+            "properties": {
+              "CurrentTargetFramework": "net5.0",
+              "RecommendedTargetFramework": "net10.0"
+            }
+          }
+        }
+      ],
+      "features": []
+    },
+    {
+      "path": "Projeto.LogicaNegocio\\Projeto.LogicaNegocio.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "properties": {
+        "appName": "Projeto.LogicaNegocio",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "net5.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "numberOfFiles": 1,
+        "numberOfCodeFiles": 1,
+        "linesTotal": 15,
+        "linesOfCode": 15,
+        "totalApiScanned": 6,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "1879fa47-760c-4173-b40d-67aa89b89735",
+          "ruleId": "Project.0002",
+          "projectPath": "Projeto.LogicaNegocio\\Projeto.LogicaNegocio.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current target framework: net5.0\nRecommended target framework: net10.0",
+              "protected": "Current target framework: net5.0\nRecommended target framework: net10.0"
+            },
+            "kind": "File",
+            "path": "Projeto.LogicaNegocio\\Projeto.LogicaNegocio.csproj",
+            "snippet": "Current target framework: net5.0\nRecommended target framework: net10.0",
+            "protectedSnippet": "Current target framework: net5.0\nRecommended target framework: net10.0",
+            "properties": {
+              "CurrentTargetFramework": "net5.0",
+              "RecommendedTargetFramework": "net10.0"
+            }
+          }
+        }
+      ],
+      "features": []
+    },
+    {
+      "path": "Projeto.Tests\\Projeto.Tests.csproj",
+      "startingProject": true,
+      "issues": 1,
+      "storyPoints": 1,
+      "properties": {
+        "appName": "Projeto.Tests",
+        "projectKind": "DotNetCoreApp",
+        "frameworks": [
+          "net5.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "numberOfFiles": 4,
+        "numberOfCodeFiles": 1,
+        "linesTotal": 1983,
+        "linesOfCode": 45,
+        "totalApiScanned": 17,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "391a2496-3f4b-4b72-a678-0610df7666d3",
+          "ruleId": "Project.0002",
+          "projectPath": "Projeto.Tests\\Projeto.Tests.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current target framework: net5.0\nRecommended target framework: net10.0",
+              "protected": "Current target framework: net5.0\nRecommended target framework: net10.0"
+            },
+            "kind": "File",
+            "path": "Projeto.Tests\\Projeto.Tests.csproj",
+            "snippet": "Current target framework: net5.0\nRecommended target framework: net10.0",
+            "protectedSnippet": "Current target framework: net5.0\nRecommended target framework: net10.0",
+            "properties": {
+              "CurrentTargetFramework": "net5.0",
+              "RecommendedTargetFramework": "net10.0"
+            }
+          }
+        }
+      ],
+      "features": []
+    }
+  ],
+  "rules": {
+    "Project.0002": {
+      "id": "Project.0002",
+      "isFeature": false,
+      "description": "Project\u0027s target framework(s) needs to be changed to the new target framework that you selected for this upgrade.\n\nDuring upgrade target framework will be adjusted to corresponding platform when applicable. In some cases project would result in multiple target frameworks after the upgrade if it was using features that now have their own platforms in modern .NET frameworks (windows, iOS, Android etc).",
+      "label": "Project\u0027s target framework(s) needs to be changed",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Overview of porting from .NET Framework to .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265227",
+          "isCustom": false
+        },
+        {
+          "title": ".NET project SDKs",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265226",
+          "isCustom": false
+        }
+      ]
+    }
+  }
+}
