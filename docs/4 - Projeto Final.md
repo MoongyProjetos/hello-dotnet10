@@ -5,8 +5,7 @@ Consolidar os conhecimentos aplicando as novas features do C# 14 e do .NET 10 no
 
 ## 📘 Conteúdo
 - Arquitetura proposta: microserviço RESTful com .NET 10
-- Uso de interceptors, pattern matching e APIs minimalistas
-- Integração com EF Core 10 e AI SDK
+- Integração com EF Core 10 
 - Pipeline CI/CD com GitHub Actions
 - Monitoramento e logs com Application Insights
 
