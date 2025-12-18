@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ProjetoFinal.ApiService/ProjetoFinal.ApiService.csproj" />
+  <Project Path="ProjetoFinal.AppHost/ProjetoFinal.AppHost.csproj" />
+  <Project Path="ProjetoFinal.ServiceDefaults/ProjetoFinal.ServiceDefaults.csproj" />
+  <Project Path="ProjetoFinal.Tests/ProjetoFinal.Tests.csproj" />
+  <Project Path="ProjetoFinal.Web/ProjetoFinal.Web.csproj" />
+</Solution>
