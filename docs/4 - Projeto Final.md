@@ -1,4 +1,4 @@
-# 🚀 Sessão 6 — Projeto Final: Microserviço Minimalista com C# 14 e .NET 10
+# 🚀 Sessão 4 — Projeto Final: Microserviço Minimalista com C# 14 e .NET 10
 
 ## 🎯 Objetivo
 Consolidar os conhecimentos aplicando as novas features do C# 14 e do .NET 10 no desenvolvimento de um microserviço completo.
